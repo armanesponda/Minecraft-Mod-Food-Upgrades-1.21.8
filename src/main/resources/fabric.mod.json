@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "foodandstart",
+	"version": "${version}",
+	"name": "FoodAndStart",
+	"description": "This is my first mod!",
+	"authors": [
+		"Me asf!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/foodandstart/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.arman.tutorialmod.FoodAndStart"
+		],
+		"client": [
+			"net.arman.tutorialmod.FoodAndStartClient"
+		],
+		"fabric-datagen": [
+			"net.arman.tutorialmod.FoodAndStartDataGenerator"
+		]
+	},
+	"mixins": [
+		"foodandstart.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.8",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
