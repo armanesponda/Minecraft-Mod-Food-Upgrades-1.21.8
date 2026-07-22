@@ -1,0 +1,63 @@
+{
+    "item.foodandstart.ruby": "Ruby",
+    "item.foodandstart.raw_ruby": "Raw Ruby",
+    "item.foodandstart.ruby_boots": "Ruby Boots",
+    "item.foodandstart.rocket_boots_v1": "Rocket Boots V1",
+    "item.foodandstart.rocket_boots_v2": "Rocket Boots V2",
+
+    "item.foodandstart.end_emerald": "End Emerald",
+    "item.foodandstart.end_flower_pot": "End Flower Pot",
+    "item.foodandstart.end_brick": "End Brick",
+    "item.foodandstart.end_clay_ball": "End Clay Ball",
+
+    "item.foodandstart.end_emerald_pickaxe": "End Emerald Pickaxe",
+    "item.foodandstart.end_emerald_axe": "End Emerald Axe",
+    "item.foodandstart.end_emerald_sword": "End Emerald Sword",
+    "item.foodandstart.end_emerald_shovel": "End Emerald Shovel",
+    "item.foodandstart.end_emerald_hoe": "End Emerald Hoe",
+
+    "item.foodandstart.end_emerald_helmet": "End Emerald Helmet",
+    "item.foodandstart.end_emerald_chestplate": "End Emerald Chestplate",
+    "item.foodandstart.end_emerald_leggings": "End Emerald Leggings",
+    "item.foodandstart.end_emerald_boots": "End Emerald Boots",
+    
+    "block.foodandstart.end_emerald_block": "End Emerald Block", 
+    "block.foodandstart.end_emerald_ore": "End Emerald Ore", 
+    "block.foodandstart.end_grass": "End Grass", 
+    "block.foodandstart.end_clay": "End Clay", 
+    "block.foodandstart.end_bricks": "End Bricks", 
+    "block.foodandstart.end_obsidian": "End Obsidian", 
+    "block.foodandstart.end_boulder": "End Boulder", 
+    "block.foodandstart.end_mossy_boulder": "Mossy End Boulder", 
+    "block.foodandstart.end_sand": "End Sand", 
+    "block.foodandstart.end_sandstone": "End Sandstone", 
+    "block.foodandstart.end_wood_planks": "End Wood Planks", 
+
+    "block.foodandstart.ruby_block": "Block of Ruby", 
+
+    "item.foodandstart.tomato_seeds": "Tomato Seeds",
+    "item.foodandstart.corn_seeds": "Corn Seeds",
+    "item.foodandstart.grape_vine": "Grape Vine",
+
+    "item.foodandstart.tomato": "Tomato",
+    "item.foodandstart.corn": "Corn",
+    "item.foodandstart.cooked_corn": "Cooked Corn",
+    "item.foodandstart.strawberry": "Strawberry",
+    "item.foodandstart.grape": "Grapes",
+    "item.foodandstart.blueberry": "Blueberry",
+    "item.foodandstart.mango": "Mango",
+    "item.foodandstart.flour": "Flour",
+
+    "item.foodandstart.pancake": "Pancake",
+    "item.foodandstart.dough": "Dough",
+    "item.foodandstart.fruit_salad": "Fruit Salad",
+    "item.foodandstart.tomato_soup": "Tomato Soup",
+    "item.foodandstart.tomato_sauce": "Tomato Sauce",
+    "item.foodandstart.spaghetti_tomato": "Bolognese",
+    
+
+    "itemgroup.ruby": "Ruby Tutorial Group",
+    "itemgroup.end": "End Features",
+    "itemgroup.food": "Food Features"
+    
+}
